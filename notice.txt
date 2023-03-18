@@ -1,0 +1,6 @@
+公告
+这是一份公告
+没有任何内容因为还在测试中
+你可以在 api.foxaxu.com/public/notice.txt 看到这份公告
+更多信息可以访问 developer.foxaxu.com
+邮箱 hello@foxaxu.com
